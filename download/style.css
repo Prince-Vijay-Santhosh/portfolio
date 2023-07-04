@@ -1,0 +1,8 @@
+.frame-1, .frame-1 * { box-sizing: border-box; }.frame-1 {background: #000000; width: 1920px; height: 1080px; position: relative; overflow-y: auto;}
+ .prince-vijay-santhosh {color: #ffffff; text-align: left; font: 400 40px 'Inter', sans-serif; position: absolute; left: 33px;top: 49px; width: 417px; height: 51px;}
+ .achievements {color: #ffffff; text-align: left; font: 400 30px 'Inter', sans-serif; position: absolute; left: 1509px;top: 55px; width: 203px; height: 39px;}
+ .about-me {color: #ffffff; text-align: left; font: 400 30px 'Inter', sans-serif; position: absolute; left: 1742px;top: 55px; width: 155px; height: 34px;}
+ .projects {color: #ffffff; text-align: left; font: 400 30px 'Inter', sans-serif; position: absolute; left: 1137px;top: 55px; width: 122px; height: 38px;}
+ .home {color: #ffffff; text-align: left; font: 400 30px 'Inter', sans-serif; position: absolute; left: 1011px;top: 55px; width: 96px; height: 33px;}
+ .experiences {color: #ffffff; text-align: left; font: 400 30px 'Inter', sans-serif; position: absolute; left: 1289px;top: 53px; width: 190px; height: 39px;}
+ .image-1-1 {width: 718px; height: 714px; position: absolute; left: 617px;top: 198px;}
